@@ -1,0 +1,15 @@
+C:\Users\Pantera\Desktop\Examples\example002_User\bin\Debug\net6.0\example002_User.exe
+C:\Users\Pantera\Desktop\Examples\example002_User\bin\Debug\net6.0\example002_User.deps.json
+C:\Users\Pantera\Desktop\Examples\example002_User\bin\Debug\net6.0\example002_User.runtimeconfig.json
+C:\Users\Pantera\Desktop\Examples\example002_User\bin\Debug\net6.0\example002_User.dll
+C:\Users\Pantera\Desktop\Examples\example002_User\bin\Debug\net6.0\example002_User.pdb
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.csproj.AssemblyReference.cache
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.AssemblyInfoInputs.cache
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.AssemblyInfo.cs
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.csproj.CoreCompileInputs.cache
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.dll
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\refint\example002_User.dll
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.pdb
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\example002_User.genruntimeconfig.cache
+C:\Users\Pantera\Desktop\Examples\example002_User\obj\Debug\net6.0\ref\example002_User.dll
